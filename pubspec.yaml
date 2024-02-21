@@ -12,7 +12,7 @@ dependencies:
   fast_base58: ^0.2.1
   flutter:
     sdk: flutter
-  http: ^1.2.1
+  http: ^1.0.0
   sha3: ^0.2.0
   web3dart: ^2.7.2
   web_socket_channel: ^2.1.0
